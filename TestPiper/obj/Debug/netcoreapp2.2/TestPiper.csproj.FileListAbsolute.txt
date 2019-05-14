@@ -1,0 +1,17 @@
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\TestPiper.deps.json
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\TestPiper.runtimeconfig.json
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\TestPiper.runtimeconfig.dev.json
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\TestPiper.dll
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\TestPiper.pdb
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\Piper.dll
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\bin\Debug\netcoreapp2.2\Piper.pdb
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.csprojAssemblyReference.cache
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.csproj.CoreCompileInputs.cache
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.AssemblyInfoInputs.cache
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.AssemblyInfo.cs
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.csproj.CopyComplete
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.dll
+C:\Users\swilson2\RiderProjects\Piper\TestPiper\obj\Debug\netcoreapp2.2\TestPiper.pdb
